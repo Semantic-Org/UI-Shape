@@ -17,5 +17,5 @@
     "jquery": "x.x.x"
   },
   "devDependencies": {},
-  "main": "shape.js"
+  "main": "index.js"
 }
