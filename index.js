@@ -271,11 +271,7 @@ module.exports = function(parameters) {
 
           up: function() {
             if(module.is.complete() && !module.is.animating() && !settings.allowRepeats) {
-<<<<<<< HEAD
               module.debug('Side already visible', $nextSide);
-=======
-              console.log('Side already visible', $nextSide);
->>>>>>> ec992ddbac321188b1442bb31fcedc07a9731cd1
               return;
             }
             if( !module.is.animating()) {
@@ -291,11 +287,7 @@ module.exports = function(parameters) {
 
           down: function() {
             if(module.is.complete() && !module.is.animating() && !settings.allowRepeats) {
-<<<<<<< HEAD
               module.debug('Side already visible', $nextSide);
-=======
-              console.log('Side already visible', $nextSide);
->>>>>>> ec992ddbac321188b1442bb31fcedc07a9731cd1
               return;
             }
             if( !module.is.animating()) {
@@ -311,11 +303,7 @@ module.exports = function(parameters) {
 
           left: function() {
             if(module.is.complete() && !module.is.animating() && !settings.allowRepeats) {
-<<<<<<< HEAD
               module.debug('Side already visible', $nextSide);
-=======
-              console.log('Side already visible', $nextSide);
->>>>>>> ec992ddbac321188b1442bb31fcedc07a9731cd1
               return;
             }
             if( !module.is.animating()) {
@@ -331,11 +319,7 @@ module.exports = function(parameters) {
 
           right: function() {
             if(module.is.complete() && !module.is.animating() && !settings.allowRepeats) {
-<<<<<<< HEAD
               module.debug('Side already visible', $nextSide);
-=======
-              console.log('Side already visible', $nextSide);
->>>>>>> ec992ddbac321188b1442bb31fcedc07a9731cd1
               return;
             }
             if( !module.is.animating()) {
@@ -351,11 +335,7 @@ module.exports = function(parameters) {
 
           over: function() {
             if(module.is.complete() && !module.is.animating() && !settings.allowRepeats) {
-<<<<<<< HEAD
               module.debug('Side already visible', $nextSide);
-=======
-              console.log('Side already visible', $nextSide);
->>>>>>> ec992ddbac321188b1442bb31fcedc07a9731cd1
               return;
             }
             if( !module.is.animating()) {
@@ -371,11 +351,7 @@ module.exports = function(parameters) {
 
           back: function() {
             if(module.is.complete() && !module.is.animating() && !settings.allowRepeats) {
-<<<<<<< HEAD
               module.debug('Side already visible', $nextSide);
-=======
-              console.log('Side already visible', $nextSide);
->>>>>>> ec992ddbac321188b1442bb31fcedc07a9731cd1
               return;
             }
             if( !module.is.animating()) {
