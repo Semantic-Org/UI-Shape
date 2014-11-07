@@ -14,5 +14,9 @@
     "jquery": "x.x.x"
   },
   "main": "shape.js",
+<<<<<<< HEAD
   "version": "1.0.0-beta"
+=======
+  "version": "1.0.0"
+>>>>>>> ec992ddbac321188b1442bb31fcedc07a9731cd1
 }

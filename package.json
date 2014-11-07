@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-shape",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.0.0",
+>>>>>>> ec992ddbac321188b1442bb31fcedc07a9731cd1
   "title": "Semantic UI - Shape",
   "description": "Single component release of shape",
   "homepage": "http://www.semantic-ui.com",
@@ -13,9 +17,16 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
+<<<<<<< HEAD
   "devDependencies": {},
   "dependencies": {
     "jquery": "x.x.x"
   },
+=======
+  "dependencies": {
+    "jquery": "x.x.x"
+  },
+  "devDependencies": {},
+>>>>>>> ec992ddbac321188b1442bb31fcedc07a9731cd1
   "main": "index.js"
 }
