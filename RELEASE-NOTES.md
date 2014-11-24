@@ -1,4 +1,4 @@
-### Version 1.0.0 - XX XX, 2014
+### Version 1.0.0 - November 24, 2014
 
 - **Shape** - Shape now is better at calculating sizes when animating
 - **Shape** - You can now disable repeated animations by setting, so animation wont queue if side is currently visible
