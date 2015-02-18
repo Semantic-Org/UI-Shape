@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-shape",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> 2d1aced55efbb1e0ac67ec9f7a501864c719508c
   "title": "Semantic UI - Shape",
   "description": "Single component release of shape",
   "homepage": "http://www.semantic-ui.com",
@@ -8,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Semantic-Org/UI-Shape.git"
+    "url": "https://github.com/Semantic-Org/UI-Shape.git"
   },
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
