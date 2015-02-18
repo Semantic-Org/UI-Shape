@@ -5,7 +5,7 @@ var
 Package.describe({
   name    : 'semantic:ui-shape',
   summary : 'Semantic UI - Shape (official): Single component release of shape',
-  version : '1.9.9',
+  version : '1.9.0',
   git     : 'git://github.com/Semantic-Org/UI-Shape.git',
 });
 
