@@ -1,17 +1,15 @@
-var
-  where = 'client' // Adds files only to the client
-;
 
 Package.describe({
   name    : 'semantic:ui-shape',
-  summary : 'Semantic UI - Shape (official): Single component release of shape',
-  version : '1.9.2',
+  summary : 'Semantic UI - Shape: Single component release',
+  version : '1.9.3',
   git     : 'git://github.com/Semantic-Org/UI-Shape.git',
 });
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
   api.addFiles([
-    
-  ], where);
+    'shape.css',
+    'shape.js'
+  ], 'client');
 });
