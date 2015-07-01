@@ -1,3 +1,7 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Shapes** - Shapes now correctly adjusts for margin on `sides`
+
 ### Version 1.0.0 - November 24, 2014
 
 - **Shape** - Shape now is better at calculating sizes when animating
