@@ -1,5 +1,5 @@
 /*!
- * # Semantic UI 2.0.7 - Shape
+ * # Semantic UI 2.0.8 - Shape
  * http://github.com/semantic-org/semantic-ui/
  *
  *
@@ -824,7 +824,7 @@ module.exports = function(parameters) {
   ;
 };
 
-module.exports.settings = {
+_module.exports.settings = {
 
   // module info
   name : 'Shape',
