@@ -1,6 +1,6 @@
 ### Version 2.2.0 - June 26, 2016
 
-- **Shape** - Shape now lets you specify next side width using setting `width`, can use `next` or `initial` to specify whether it should use old or new side size 
+- **Shape** - Shape now lets you specify next side width using setting `width`, can use `next` or `initial` to specify whether it should use old or new side size
 
 ### Version 2.0.0 - June 30, 2015
 
