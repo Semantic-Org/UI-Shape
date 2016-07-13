@@ -1,3 +1,7 @@
+### Version 2.2.2 - July 07, 2016
+
+- **Shape** - Fixed issue where shape was animating incorrectly when using jQuery 3.0, due to secret changes in how `width` are calculated on elements with `transform`
+
 ### Version 2.2.0 - June 26, 2016
 
 - **Shape** - Shape now lets you specify next side width using setting `width`, can use `next` or `initial` to specify whether it should use old or new side size
